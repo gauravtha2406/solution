@@ -5,7 +5,7 @@ In this I created mobile optimized website using graphql for listing continents 
 
 I also Convert this web app into **PWA**. I also deploy this website in netlify
 
-#Solution
+# Solution
 
 Click Below link to visit the site
 

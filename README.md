@@ -20,5 +20,5 @@ Click Below link to visit the site
 # Fully Mobile optimised
 ![image](https://user-images.githubusercontent.com/67433489/107870860-55600900-6ec2-11eb-9f7f-7d17a562f40f.png)
 
-# Lighhouse Score
+# Lighthouse Score
 ![image](https://user-images.githubusercontent.com/67433489/107870886-a1ab4900-6ec2-11eb-84b6-e326858f54ff.png)

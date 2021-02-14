@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="manifest" href="manifest.json">
+  <script src="index.js" defer></script>
+</head>
+
+<body>
+  <div id ="heading" class="heading"><h2>SELECT FROM BELOW CONTINENT LIST</h2> </div>
+  <div class="container">
+   
+    <select id="continent-select"  >
+      <option selected hidden>Select a Continent</option>
+    </select>
+    <div id="countries-list" ></div>
+  </div>
+  <script>
+    if('serviceWorker' in navigator){
+      navigator.serviceWorker.register('/service-worker.js');
+    }
+  </script>
+</body>
+
+</html>

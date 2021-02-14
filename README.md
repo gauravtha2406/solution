@@ -22,3 +22,7 @@ Click Below link to visit the site
 
 # Lighthouse Score
 ![image](https://user-images.githubusercontent.com/67433489/107870886-a1ab4900-6ec2-11eb-84b6-e326858f54ff.png)
+
+# Setup
+After download or clone run npx serve and run at http://localhost:5000
+

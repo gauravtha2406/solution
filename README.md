@@ -13,6 +13,6 @@ Click Below link to visit the site
 
 # screenshots
 
-!(https://user-images.githubusercontent.com/67433489/107870752-2b5a1700-6ec1-11eb-8080-b9747c317cca.png)
+![screenshot 1](https://user-images.githubusercontent.com/67433489/107870752-2b5a1700-6ec1-11eb-8080-b9747c317cca.png)
 
-!(https://user-images.githubusercontent.com/67433489/107870782-72480c80-6ec1-11eb-899a-a1cc57eba9c0.png)
+![screenshot 2](https://user-images.githubusercontent.com/67433489/107870782-72480c80-6ec1-11eb-899a-a1cc57eba9c0.png)
